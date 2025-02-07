@@ -1,3 +1,3 @@
-Name:Tahathecoder
+Tahathecoder
 <br>
-Description:My First Repositery
+My First Repositery
